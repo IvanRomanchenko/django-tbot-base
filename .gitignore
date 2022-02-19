@@ -1,0 +1,7 @@
+migrations/
+__pycache__/
+venv/
+.idea/
+build/
+dist/
+django_tbot_base.egg-info/
