@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
 	name="django-tbot-base",
-	version="1.0.0",
+	version="1.0.1",
 	author="Ivan Romanchenko",
 	author_email="vanvanych789@gmail.com",
 	description="Django Telegram bot base config",
