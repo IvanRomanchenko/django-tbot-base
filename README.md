@@ -32,6 +32,11 @@ urlpatterns = [
 ]
 ```
 
+```sh
+python manage.py makemigrations tbot_base
+python manage.py migrate
+```
+
 ## Usage
 ### Handlers
 `YourProject/tbot/handlers.py`
